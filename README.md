@@ -27,7 +27,6 @@ Users can:
 
 ## Sources
 
-- [Frontend Mentor](https://www.frontendmentor.io/)
 - [Team Treehouse] (https://teamtreehouse.com)
 - [MDN] (https://developer.mozilla.org/en-US/docs/Web) 
 - [W3 School] (https://www.w3schools.com/)
