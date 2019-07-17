@@ -1,4 +1,7 @@
 # Calculator
+
+![Calculator preview](https://github.com/f-elix/calculator/blob/master/calc.JPG)
+
 ## What is it?
 
 A basic calculator that I made as an exercise to get better with vanilla Javascript.
