@@ -27,11 +27,11 @@ Users can:
 
 ## Sources
 
-- [Team Treehouse] (https://teamtreehouse.com)
-- [MDN] (https://developer.mozilla.org/en-US/docs/Web) 
-- [W3 School] (https://www.w3schools.com/)
-- [CSS autoprefixer] (https://autoprefixer.github.io/)
-- [Dirty Markup] (https://www.10bestdesign.com/dirtymarkup/css/)
+- [Team Treehouse](https://teamtreehouse.com)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web) 
+- [W3 School](https://www.w3schools.com/)
+- [CSS autoprefixer](https://autoprefixer.github.io/)
+- [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/css/)
 
 Coded by Felix Guerin
 
